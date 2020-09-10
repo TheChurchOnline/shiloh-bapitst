@@ -43,7 +43,7 @@
         <param name="onload" value="true" />
     </feature>
     <feature name="IonicWebView">
-    <param name="ios-package" value="CDVWKWebViewEngine" />
+        <param name="ios-package" value="CDVWKWebViewEngine" />
     </feature>
     <platform name="android">
         <preference name="Orientation" value="portrait" />
@@ -58,6 +58,7 @@
     <preference name="ShowSplashScreenSpinner" value="false" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="webviewbounce" value="false" />
+    <preference name="WKWebViewOnly" value="true" />
     <preference name="SplashMaintainAspectRatio" value="true" />
     <platform name="android">
         <preference name="SplashShowOnlyFirstTime" value="false" />
