@@ -59,6 +59,7 @@
     <preference name="DisallowOverscroll" value="true" />
     <preference name="webviewbounce" value="false" />
     <preference name="WKWebViewOnly" value="true" />
+    <preference name="WKSuspendInBackground" value="false" />
     <preference name="SplashMaintainAspectRatio" value="true" />
     <platform name="android">
         <preference name="SplashShowOnlyFirstTime" value="false" />
