@@ -130,6 +130,8 @@
     <content src="index.html" />
     <access origin="*" subdomains="true" />
     <allow-navigation href="*" />
+    <allow-intent href="http://*/*"/>
+    <allow-intent href="https://*/*"/>
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
