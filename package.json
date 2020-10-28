@@ -14,10 +14,11 @@
     "shiloh",
     "app"
   ],
-  "author": "Wennong Song",
+  "author": "The Church Online",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TheChurchOnline/shiloh-baptist/issues"
   },
+  "cordova-plugin-inappbrowser": "git+https://github.com/apache/cordova-plugin-inappbrowser.git",
   "homepage": "https://github.com/TheChurchOnline/shiloh-baptist#readme"
 }
