@@ -1,40 +1,543 @@
-{
-  "project_info": {
-    "project_number": "513455063671",
-    "firebase_url": "https://shilohbc-push.firebaseio.com",
-    "project_id": "shilohbc-push",
-    "storage_bucket": "shilohbc-push.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:513455063671:android:c1b77be5184e68bacabc72",
-        "android_client_info": {
-          "package_name": "com.shilohbaptist.app"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "513455063671-te3r7a63l7boep4jfv4kt9noq6g18kqa.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCciU7j0yi82EV_nErjFbEfvQjXvr8XMdo"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "513455063671-te3r7a63l7boep4jfv4kt9noq6g18kqa.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
+<!DOCTYPE html>
+<html lang="en-US" class="js-nav">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Login | Caleb Shultz</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://myapppresser.com/web-tco/xmlrpc.php" />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/myapppresser.com\/web-tco\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
 }
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://myapppresser.com/web-tco/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rcp-site-creation-css'  href='https://myapppresser.com/web-tco/wp-content/plugins/rcp-site-creation/assets/css/site-creation.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='myappp-style-css'  href='https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/style.css?ver=1.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-color-picker-css'  href='https://myapppresser.com/web-tco/wp-admin/css/color-picker.min.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://myapppresser.com/web-tco/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' id='rcp-site-creation-js-extra'>
+/* <![CDATA[ */
+var rcp_site_creation_vars = {"allowed":"","show_desc":"","ajaxurl":"https:\/\/myapppresser.com\/web-tco\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://myapppresser.com/web-tco/wp-content/plugins/rcp-site-creation/assets/js/site-creation.js?ver=1.0.0' id='rcp-site-creation-js'></script>
+<script type='text/javascript' src='https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/js/myappp-theme-utils.js?ver=1.5.3' id='myappp-scripts-utils-js'></script>
+<link rel="https://api.w.org/" href="https://myapppresser.com/web-tco/wp-json/" /><link rel="alternate" type="application/json" href="https://myapppresser.com/web-tco/wp-json/wp/v2/pages/11" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://myapppresser.com/web-tco/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://myapppresser.com/web-tco/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel="canonical" href="https://myapppresser.com/web-tco/login/" />
+<link rel='shortlink' href='https://myapppresser.com/web-tco/?p=11' />
+<link rel="alternate" type="application/json+oembed" href="https://myapppresser.com/web-tco/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmyapppresser.com%2Fweb-tco%2Flogin%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://myapppresser.com/web-tco/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmyapppresser.com%2Fweb-tco%2Flogin%2F&#038;format=xml" />
+	<script src="https://js.chargebee.com/v2/chargebee.js" data-cb-site="apppresser" ></script>
+	</head>
+
+<body class="page-template page-template-page-login page-template-page-login-php page page-id-11 ap4">
+
+
+<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+		<section class="top-menu-container">
+		  <div class="top-menu-inside">
+					  </div>
+		</section>
+
+					<div id="header-notice">Notice: You are on AppPresser 3, you must upgrade to AppPresser 4 if you wish to update your apps. <a href="https://apppresser.com/v3-deprecation/" target="_blank">Click here for more information.</a></div>
+				
+		<section class="site-branding">
+		  <!-- <a class="nav-btn" id="nav-open-btn">Menu</a> -->
+		  <div class="site-title-wrap">
+			  
+			<h1 class="site-title">Login</h1>
+			  
+			</div><!-- .site-title-wrap -->
+			
+			<a class="mybutton button-primary" style="float:right; margin-top:5px;" href="https://myapppresser.com/web-tco/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fmyapppresser.com%2Fweb-tco&amp;_wpnonce=d00b6d94be">Logout</a>		  	
+			</section><!-- .site-branding -->
+
+	</header><!-- #masthead -->
+
+	<div id="main" class="site-main">
+
+	<h2 class="page-title">Login</h2>
+	<div id="primary" class="content-area full-width">
+		<div id="content" class="site-content" role="main">
+
+		<section class="appp-login-form"><h1>Welcome</h1>
+		<form name="loginform" id="loginform" action="https://myapppresser.com/web-tco/wp-login.php" method="post">
+			
+			<p class="login-username">
+				<label for="user_login">Username or Email Address</label>
+				<input type="text" name="log" id="user_login" class="input" value="" size="20" />
+			</p>
+			<p class="login-password">
+				<label for="user_pass">Password</label>
+				<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" />
+			</p>
+			
+			<p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember Me</label></p>
+			<p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary" value="Log In" />
+				<input type="hidden" name="redirect_to" value="https://myapppresser.com/web-tco" />
+			</p>
+			
+		</form><a class="lost-pass-link" href="https://myapppresser.com/web-tco/wp-login.php?action=lostpassword" title="Lost Password">Lost Password</a></section><script type="text/javascript">jQuery('#user_login').focus();</script>
+		<br style="clear:both">
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #main -->
+
+</div><!-- #page -->
+
+	<section class="app-modal smaller-modal" id="create-app-modal">
+		<a class="close-modal"><i class="icon ion-close"></i></a>
+
+		<div class="new-app-wrap">
+			<h3>New App</h3>
+			<p>Give your app a title and we'll set everything up.</p>
+	  		<input type="text" id="app-name" placeholder="App Title">
+	  		<button class="mybutton" id="create-app">Create App</button>
+	  		<div class="loading-message" style="display:none">Creating app...</div>
+	  		<div class="upgrade-more-apps" style="display:none">
+	  			<h2>Need more apps?</h2>
+	  			<a class="mybutton" href="https://apppresser.com/pricing/" target="_blank">Upgrade your account.</a>
+	  		</div>
+  		</div>
+  	</section>
+
+  	<section class="app-modal" id="send-push-modal">
+  		<a class="close-modal"><i class="icon ion-close"></i></a>
+		<h3>Send Push</h3>
+  		<p>Please login</p>  	</section>
+
+  	<section class="app-modal" id="account-modal">
+		<a class="close-modal"><i class="icon ion-close"></i></a>
+		  
+		<h4>Account Info</h4>
+		
+  	</section>
+
+  	<section class="app-modal" id="video-modal">
+  		<a class="close-modal"><i class="icon ion-close"></i></a>
+		<h3>Getting Started Video</h3>
+
+		<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+
+	</section>
+
+	<section class="app-modal" id="form-errors">
+		<a class="close-modal"><i class="icon ion-close"></i></a>
+		<h3>Error</h3>
+
+		<div id="form-error-msg"></div>
+	</section>
+
+	<section class="app-modal full-modal has-modal-header" id="getting-started-modal">
+		<a class="close-modal"><i class="icon ion-close"></i></a>
+			<div class="modal-header">
+		<h3>Create your app</h3>
+	</div>
+
+	<div class="content-area full-width">
+
+		<div id="onboarding">
+			<div class="onboarding-steps" id="onboarding-step-1">
+				<h4 class="onboarding-step-header">1. Create your app</h4>
+				<div class="onboarding-step-conent">
+					<p>Give your app a title and click create app.</p>
+					<p><input type="text" name="onboarding-app-name" id="onboarding-app-name" placeholder="App Title"></p>
+					
+					<div id="app-templates">
+	<ul>
+					<li>
+				<img id="app-template-life" src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/onboarding/app-templates/life.png">
+				<h3>Life</h3>
+			</li>
+					<li>
+				<img id="app-template-store" src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/onboarding/app-templates/store.png">
+				<h3>Store</h3>
+			</li>
+					<li>
+				<img id="app-template-event" src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/onboarding/app-templates/event.png">
+				<h3>Event</h3>
+			</li>
+					<li>
+				<img id="app-template-school" src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/onboarding/app-templates/school.png">
+				<h3>School</h3>
+			</li>
+					<li>
+				<img id="app-template-generic" src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/onboarding/app-templates/generic.png">
+				<h3>Generic</h3>
+			</li>
+					<li>
+				<img id="app-template-blank" src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/onboarding/app-templates/blank.png">
+				<h3>Blank</h3>
+			</li>
+		
+		<div style="clear:both"></div>
+	</ul>
+</div>					
+					<button class="mybutton" id="onboarding-create-app">Create App</button> <span class="next-step"><a href="#next-step">Next step</a></span>
+					<div class="loading-message" style="display:none">Creating app...</div>
+					
+					
+					<div class="max-apps-limit" style="display:none">
+						<h2>Need more apps?</h2>
+						<a class="mybutton" href="https://apppresser.com/pricing/" target="_blank">Upgrade your account.</a>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="onboarding-steps" id="onboarding-step-2">
+				<h4 class="onboarding-step-header">2. Install the AppPresser plugin</h4>
+				<div class="onboarding-step-conent">
+					<h2>Install the AppPresser plugin</h2>
+					<p>Visit your WordPress site, click Plugins => Add New, and install the AppPresser plugin.</p>
+					<p><img src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/onboarding/onboarding-plugin_03.png"></p>
+
+					<h2>Configure your AppPresser plugin</h2>
+					On your website where you just installed the plugin, visit the plugin settings page, enter the following settings, then save.
+					<div class="app-details">
+						<div id="site-slug">Site slug: <span></span></div>
+						<div id="app-id">App ID: <span>(create your app first)</span></div>
+					</div>
+					<p><img src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/onboarding/onboarding-plugin_06.png"></p>
+					<p>Optionally, upload and activate other AppPresser extension on your WordPress site. <a href="http://docs.apppresser.com/collection/304-extensions" target="_blank">Help</a></p>
+						<button class="mybutton button-success next-step">Next step</button>
+				</div>
+			</div>
+
+			<div class="onboarding-steps" id="onboarding-step-3">
+				<h4 class="onboarding-step-header">3. Install the AppPresser theme</h4>
+				<div class="onboarding-step-conent">
+					<p><a href="./billing/" target="_blank">Visit your account page to download the AP3 Ion Theme.</a> Upload it to your WordPress site under Themes => Add New => Upload.</p>
+					<p>That's it. <b>Do not activate the theme</b></p>
+					<p><img src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/onboarding/onboarding-theme_03.png"></p>
+						<button class="mybutton button-success next-step">Next step</button>
+				</div>
+			</div>
+
+			<div class="onboarding-steps" id="onboarding-step-4">
+				<h4 class="onboarding-step-header">4. Connect your WordPress site</h4>
+				<div class="onboarding-step-conent">
+					<p>This will tell the app where your site is to assist in the login process. Also, it is required if you are using AppBuddy for push notifications on such events as private messages and friend requests.</p>
+					<div id="appp-wp-ajax-error" class="form-response-msg"><!-- js msg --></div>
+					<input type="text" name="wp-url">
+					<em><b>Important!</b> https is required.</em><br><br>
+					<button id="wp-url-verify" class="mybutton">Verify URL</button> <span class="next-step"><a href="#next-step">Next step</a></span>
+				</div>
+			</div>
+
+			<div class="onboarding-steps" id="onboarding-step-5">
+				<h4 class="onboarding-step-header">5. Preview app</h4>
+				<div class="onboarding-step-conent">
+					<p>Download the AppPresser Preview app to test your apps on a device.</p>
+					<p><a href="https://itunes.apple.com/us/app/apppresser-3-preview/id1200503566" target="_blank">Click here for iOS</a> or <a href="https://play.google.com/store/apps/details?id=com.apppresser.preview3&hl=en" target="_blank">click here for Android</a></p>
+					<p><img src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/onboarding/preview-home.png"></p>
+					<p>Nice work!</p>
+				</div>
+			</div>
+
+			<div class="onboarding-steps">
+				<button class="mybutton button-success customize-step">Finished!</button>
+				<button class="mybutton button-gray cancel-step">Cancel</button>
+			</div>
+		</div>
+
+	</div><!-- .content-area -->
+	</section>
+
+	<section class="app-modal full-modal has-modal-header" id="app-wizard-modal">
+		<a class="close-modal"><i class="icon ion-close"></i></a>
+			<div class="modal-header">
+		<h3>Create your app</h3>
+	</div>
+
+	<div class="content-area full-width">
+
+		<div id="wizard">
+
+			<div class="wizard-steps" id="wizard-step-1">
+				<h4 class="wizard-step-header">Design</h4>
+				<div class="wizard-step-conent">
+
+					<div class="inner-wiz-panel">
+
+						<h2>App Title</h2>
+						<p>Give your app a title</p>
+						<p><input type="text" name="wizard_app_name" id="wizard-app-name" placeholder="App Title" value=""></p>
+
+					</div>
+					<div class="inner-wiz-panel">
+						<h2>Colors</h2>
+						Choose your main colors; you can customize more colors later.
+						<div id="wizard-color-pickers">
+							<label for="header_toolbar_picker">Header/toolbar</label>
+							<input type="text" name="header_toolbar_picker" value="" id="header-toolbar-picker" >
+							
+							<label for="header_toolbar_text_picker">Header/toolbar text color</label>
+							<input type="text" name="header_toolbar_text_picker" value="" id="header-toolbar-text-picker" >
+						</div>
+					</div>
+					<div class="inner-wiz-panel">
+						<h2>Logo</h2>
+						Want your logo in the header? Upload it here. (<b>Optional</b> and can be added later.)<br>
+						<i><strong>file type:</strong> PNG<br>
+						<strong>max-height:</strong> 35px;<br>
+						<strong>max-width:</strong> 150px;</i>
+						<form action="upload.php" method="post" enctype="multipart/form-data">
+							<div class="smart-upload-btn">
+								<input type="file" name="logofile" id="logofile" class="inputfile inputlogofile" data-required-type="png" data-multiple-caption="{count} files selected" />
+								<label for="logofile"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="17" viewBox="0 0 20 17"><path d="M10 0l-5.2 4.9h3.3v5.1h3.8v-5.1h3.3l-5.2-4.9zm9.3 11.5l-3.2-2.1h-2l3.4 2.6h-3.5c-.1 0-.2.1-.2.1l-.8 2.3h-6l-.8-2.2c-.1-.1-.1-.2-.2-.2h-3.6l3.4-2.6h-2l-3.2 2.1c-.4.3-.7 1-.6 1.5l.6 3.1c.1.5.7.9 1.2.9h16.3c.6 0 1.1-.4 1.3-.9l.6-3.1c.1-.5-.2-1.2-.7-1.5z"/></svg>
+									<span>Choose a .png file&hellip;</span>
+								</label>
+							</div>
+						</form>
+
+					</div>
+
+					<button class="mybutton button-success next-step">Next step</button>
+				</div>
+			</div>
+
+			<div class="wizard-steps" id="wizard-step-2">
+
+				<h4 class="wizard-step-header">Install AppPresser plugins/theme</h4>
+				<div class="wizard-step-conent">
+
+					<h3>Connecting your WordPress site to your app and myapppresser.com</h3>
+
+					<div class="inner-wiz-panel">
+						<h2>Install the AppPresser plugin</h2>
+						<p>Visit your own WordPress site, click Plugins => Add New, and install the AppPresser plugin.</p>
+						<p><img src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/wizard/wizard-plugin_03.png"></p>
+					
+					</div>
+					
+					<div class="inner-wiz-panel">
+
+						<h2>Configure your AppPresser plugin</h2>
+						On your website where you just installed the plugin, you will need to revisit the plugin settings page, after completing these steps and enter the following settings, then save.
+						<div class="app-details">
+							<div id="site-slug">Site slug: <span></span></div>
+							<div id="app-id">App ID: <span>(create your app first)</span></div>
+						</div>
+						<p><img src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/wizard/wizard-plugin_06.png"></p>
+						<p>Optionally, upload and activate other AppPresser extension on your WordPress site. <a href="http://docs.apppresser.com/collection/304-extensions" target="_blank">Help</a></p>
+					</div>
+					
+					
+					<div class="inner-wiz-panel">
+					
+						<h2>Install the AppPresser theme</h2>
+						<p><a href="./billing/" target="_blank">Visit your account page to download the AP3 Ion Theme.</a> Upload it to your WordPress site under Themes => Add New => Upload.</p>
+						<p>That's it. <b>Do not activate the theme</b></p>
+						<p><img src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/wizard/wizard-theme_03.png"></p>
+					</div>
+
+					<button class="mybutton button-success next-step">Next step</button>
+				</div>
+			</div>
+
+			<div class="wizard-steps" id="wizard-step-3">
+				<h4 class="wizard-step-header">Configure</h4>
+				<div class="wizard-step-conent">
+
+					<div class="inner-wiz-panel">
+
+						<h2>App Menus</h2>
+						<p>Choose your menu style: on the side to expand and hide or on the bottom as a tab menu.</p>
+						<input type="radio" name="active_menu" value="side" checked="checked"> <strong>Side menu</strong><br>
+						<input type="radio" name="active_menu" value="tab"> <strong>Tab (footer) menu</strong>
+					</div>
+					
+					<div class="inner-wiz-panel">
+
+						<div>
+							<h2>App Preferences</h2>
+							<p><input type="checkbox" value="on" name="enable_app_login" /> <strong>Enable user logins</strong></p>
+							<p><input type="checkbox" value="on" name="enable_app_registration"> <strong>Enable user registration</strong></p>
+							<p><input type="checkbox" value="on" name="enable_app_rtl"> <strong>RTL (right-to-left language)</strong></p>
+						</div>
+
+					</div>
+
+					<p></p>
+					<button class="mybutton button-success next-step">Next step</button>
+				</div>
+			</div>
+
+			<div class="wizard-steps" id="wizard-step-4">
+				<h4 class="wizard-step-header">WordPress URL</h4>
+				<div class="wizard-step-conent">
+					
+					<div class="inner-wiz-panel">
+						<h2>WordPress URL</h2>
+						<div id="wizard-wp-ajax-error" class="form-response-msg"><!-- js msg --></div>
+						<input type="text" name="wp_url" value="">
+						<em><b>Important!</b> https is required.</em><br><br>
+						<button class="mybutton wp-url-verify">Verify URL <svg width="14" height="14" viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg" stroke="#fff"><g fill="none" fill-rule="evenodd"><g transform="translate(1 1)" stroke-width="2"><circle stroke-opacity=".5" cx="18" cy="18" r="18"/><path d="M36 18c0-9.94-8.06-18-18-18"><animateTransform attributeName="transform" type="rotate" from="0 18 18" to="360 18 18" dur="1s" repeatCount="indefinite"/></path></g></g></svg></button>
+						<button class="mybutton wp-url-do-later next-step" type="button">Do Later</button>
+					</div>
+					<p></p>
+					<button class="mybutton button-success next-step">Next step</button>
+				</div>
+			</div>
+
+			<div class="wizard-steps" id="wizard-step-5">
+				<h4 class="wizard-step-header">App Pages</h4>
+				<div class="wizard-step-conent">
+
+					<div class="inner-wiz-panel">
+						<h2>Choose a home page.</h2>
+						
+						Check the box to add each page to your app. You can edit or delete these later.</p>
+						<p><input type="checkbox" name="static_home_page" style="position:absolute;right:10000px"> <strong>Static app homepage</strong> (recommended for fast app loading)</p>
+
+						<div class="app-templates static-home-page">
+	<ul>
+														<li>
+						<img id="menu-home-buttons" src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/wizard/pg-templates/menu-home-buttons.png">
+						<h3>Home menu buttons</h3>
+					</li>
+																					<li>
+						<img id="business" src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/wizard/pg-templates/business.png">
+						<h3>Business</h3>
+					</li>
+																					<li>
+						<img id="event" src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/wizard/pg-templates/event.png">
+						<h3>Event</h3>
+					</li>
+																					<li>
+						<img id="image-cards" src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/wizard/pg-templates/image-cards.png">
+						<h3>Image cards</h3>
+					</li>
+																																	
+		<div style="clear:both"></div>
+	</ul>
+</div>						
+					</div>
+
+					<div class="inner-wiz-panel">
+
+						<h2>Additional Pages</h2>
+						<p><input type="checkbox" name="wordpress_posts"> <strong>WordPress posts</strong><br>
+							Add your latest content to your app
+						</p>
+						<p><input type="checkbox" name="intro_slides"> <strong>Intro slides</strong><br>
+							Show first-time users where to start when they open your app the very first time
+						</p>
+						<p><input type="checkbox" name="link_to_website"> <strong>Link to website</strong><br>
+							You can change this later to another page, like an about us page
+						</p>
+						<p><input type="checkbox" name="custom_pages"> <strong>Custom pages</strong></p>
+						<div class="app-templates custom-pages">
+	<ul>
+																										<li>
+						<img id="business" src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/wizard/pg-templates/business.png">
+						<h3>Business</h3>
+					</li>
+																					<li>
+						<img id="event" src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/wizard/pg-templates/event.png">
+						<h3>Event</h3>
+					</li>
+																					<li>
+						<img id="image-cards" src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/wizard/pg-templates/image-cards.png">
+						<h3>Image cards</h3>
+					</li>
+																					<li>
+						<img id="about" src="https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/images/wizard/pg-templates/about.png">
+						<h3>About us</h3>
+					</li>
+																					
+		<div style="clear:both"></div>
+	</ul>
+</div>						
+						
+						
+											</div>
+					
+				</div>
+			</div>
+
+			<div class="wizard-steps">
+				<!-- <div class="loading-message" style="display:none">Creating app...</div> -->
+				<div id="wizard-app-errors" class="form-response-msg"><!-- js msg --></div>
+				<button class="mybutton" id="wizard-create-app">Create App<svg width="14" height="14" viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg" stroke="#fff"><g fill="none" fill-rule="evenodd"><g transform="translate(1 1)" stroke-width="2"><circle stroke-opacity=".5" cx="18" cy="18" r="18"/><path d="M36 18c0-9.94-8.06-18-18-18"><animateTransform attributeName="transform" type="rotate" from="0 18 18" to="360 18 18" dur="1s" repeatCount="indefinite"/></path></g></g></svg></button> <!-- <span class="next-step"><a href="#next-step">Next step</a></span> -->
+				<div class="max-apps-limit" style="display:none">
+					<h2>Need more apps?</h2>
+					<a class="mybutton" href="https://apppresser.com/pricing/" target="_blank">Upgrade your account.</a>
+				</div>
+
+
+				<button class="mybutton button-success customize-step" style="display:none">Finished!</button>
+				<button class="mybutton button-gray cancel-step">Cancel</button>
+			</div>
+		</div>
+
+	</div><!-- .content-area -->
+	</section>
+
+	<div class="modal-backdrop"></div>
+	<script type='text/javascript' id='myappp-scripts-js-extra'>
+/* <![CDATA[ */
+var myappp = {"ajaxurl":"https:\/\/myapppresser.com\/web-tco\/wp-admin\/admin-ajax.php","siteurl":"https:\/\/myapppresser.com\/web-tco","appid":"11","app_title":"Login","site_slug":"web-tco","rest_nonce":"9c0e0eece0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/js/front-end.js?ver=1.5.3' id='myappp-scripts-js'></script>
+<script type='text/javascript' src='https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/js/mini-modal.js?ver=1.5.3' id='myappp-mini-modal-js'></script>
+<script type='text/javascript' src='https://myapppresser.com/web-tco/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://myapppresser.com/web-tco/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4' id='jquery-ui-widget-js'></script>
+<script type='text/javascript' src='https://myapppresser.com/web-tco/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://myapppresser.com/web-tco/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://myapppresser.com/web-tco/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='https://myapppresser.com/web-tco/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2' id='jquery-touch-punch-js'></script>
+<script type='text/javascript' src='https://myapppresser.com/web-tco/wp-admin/js/iris.min.js?ver=5.5.1' id='iris-js'></script>
+<script type='text/javascript' id='wp-color-picker-js-extra'>
+/* <![CDATA[ */
+var wpColorPickerL10n = {"clear":"Clear","defaultString":"Default","pick":"Select Color","current":"Current Color"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://myapppresser.com/web-tco/wp-admin/js/color-picker.min.js?ver=5.5.1' id='wp-color-picker-js'></script>
+<script type='text/javascript' src='https://myapppresser.com/web-tco/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+
+		<script type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+		<script type="text/javascript">Beacon('init', 'fbe297d4-2690-4516-8746-112909fc7dcf')</script>
+		<script>
+			Beacon('config', 
+				{
+					docsEnabled: true,
+					mode: 'selfService',
+					display: {
+						zIndex: 999999
+					},
+				}
+			);
+		// Beacon('suggest', ['581a1a2fc697915f88a3c03e']);
+		// Beacon('identify', {
+		// 	name: "",
+		// 	email: "",
+		// 	membership_level: ""		// });
+		</script>
+	
+</body>
+</html>
