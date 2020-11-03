@@ -5,7 +5,7 @@
     xmlns:gap="http://phonegap.com/ns/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="com.thechurchonline.newshilohapp"
-    version="1.0.0">
+    version="4.3.0">
    
    <name>New Shiloh Baptist Church</name>
    <description><![CDATA[New Shiloh Baptist Church]]></description>
@@ -38,12 +38,12 @@
     <plugin name="cordova-plugin-wkwebview-engine"  source="npm" /> 
     <plugin name="cordova-plugin-wkwebview-file-xhr"  source="npm" /> 
     <plugin name="cordova-plugin-media" spec="3.0.1" />
-    <plugin name="cordova-plugin-inappbrowser" spec="https://github.com/kleeb/cordova-plugin-inappbrowser.git" source="git"/>
-    <!--MEDIA-DONOTREMOVE-->
+    <!--<plugin name="cordova-plugin-inappbrowser" spec="https://github.com/kleeb/cordova-plugin-inappbrowser.git" source="git"/>
+    MEDIA-DONOTREMOVE-->
     <!--CAMERA-DONOTREMOVE-->
     <!--GEO-DONOTREMOVE-->
     <plugin name="phonegap-plugin-push" spec="2.2.3" source="npm">
-        <param name="SENDER_ID" value="880802505050" />
+        <param name="SENDER_ID" value="513455063671" />
     </plugin>
     <platform name="android"><resource-file src="google-services.json" target="app/google-services.json" /></platform>
 
@@ -167,7 +167,7 @@
         <splash height="2732" src="res/screen/ios/Default@2x~universal~anyany.png" width="2732" />
     </platform>
 
-    <icon src="icon.png" />
+    <icon src="res/icon/ios/icon.png" />
     <splash src="res/screen/ios/Default@2x~universal~anyany.png" />
     <content src="index.html" />
     <access origin="*" subdomains="true" />

@@ -4357,7 +4357,7 @@ var GlobalVars = /** @class */ (function () {
         this.data = null;
         this.useDynamicContentModule = false; // false when using our builder on remote Ionic builder?
         // url should be WP site with AP installed, dynamically changes based on build form
-        this.appid = '11361';
+        this.appid = '10351';
         this.apiurl = 'https://myapppresser.com/web-tco/';
         this.endpoint = 'wp-json/ap3/v1/app/';
         this.wooAuth = '[[woo_auth_string]]';
@@ -5693,7 +5693,7 @@ var MyApp = /** @class */ (function () {
             push = this.Push.init({
                 android: {
                     icon: "phonegap",
-                    senderID: "880802505050"
+                    senderID: "513455063671"
                 },
                 ios: {
                     alert: "true",
