@@ -20,5 +20,16 @@
     "url": "https://github.com/TheChurchOnline/shiloh-baptist/issues"
   },
   "cordova-plugin-inappbrowser": "git+https://github.com/apache/cordova-plugin-inappbrowser.git",
-  "homepage": "https://github.com/TheChurchOnline/shiloh-baptist#readme"
+  "homepage": "https://github.com/TheChurchOnline/shiloh-baptist#readme",
+  "devDependencies": {
+    "cordova-plugin-useragent": "^1.0.6"
+  },
+  "cordova": {
+    "plugins": {
+      "im.ltdev.cordova.UserAgent": {}
+    }
+  },
+  "dependencies": {
+    "@ionic-native/user-agent": "^5.30.0"
+  }
 }
