@@ -19,6 +19,6 @@
   "bugs": {
     "url": "https://github.com/TheChurchOnline/shiloh-baptist/issues"
   },
-  "cordova-plugin-inappbrowser": "git+https://github.com/apache/cordova-plugin-wkwebview-engine.git#master",
+  "cordova-plugin-inappbrowser": "git+https://github.com/apache/cordova-plugin-inappbrowser.git",
   "homepage": "https://github.com/TheChurchOnline/shiloh-baptist#readme"
 }
