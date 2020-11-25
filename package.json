@@ -42,6 +42,7 @@
     "url": "https://github.com/TheChurchOnline/shiloh-baptist/issues"
   },
   "cordova-plugin-inappbrowser": "git+https://github.com/apache/cordova-plugin-inappbrowser.git",
+  "cordova-plugin":"https://github.com/LouisT/cordova-useragent",
   "homepage": "https://github.com/TheChurchOnline/shiloh-baptist#readme"
 }
 
