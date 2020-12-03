@@ -34,8 +34,6 @@
     <plugin name="cordova-plugin-actionsheet" source="npm" spec="2.3.3" />
     <plugin name="cordova-plugin-ionic-keyboard" source="npm" spec="2.1.3" />
     <plugin name="cordova-plugin-file-opener2" source="npm" spec="3.0.0" />
-    <plugin name="cordova-plugin-wkwebview-engine"  source="npm" /> 
-    <plugin name="cordova-plugin-wkwebview-file-xhr"  source="npm" /> 
     <plugin name="cordova-plugin-media" spec="3.0.1" />
     <plugin name="cordova-plugin-inappbrowser" spec="https://github.com/kleeb/cordova-plugin-inappbrowser.git" source="git"/>
     <!--MEDIA-DONOTREMOVE-->
