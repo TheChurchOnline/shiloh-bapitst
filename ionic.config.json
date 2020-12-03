@@ -1,7 +1,0 @@
-{
-  "name": "shilohbc-app",
-  "type": "custom",
-  "integrations": {
-    "cordova": {}
-  }
-}
