@@ -68,7 +68,7 @@ var rcp_site_creation_vars = {"allowed":"","show_desc":"","ajaxurl":"https:\/\/m
 			  
 			</div><!-- .site-title-wrap -->
 			
-			<a class="mybutton button-primary" style="float:right; margin-top:5px;" href="https://myapppresser.com/web-tco/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fmyapppresser.com%2Fweb-tco&amp;_wpnonce=33bac75a1d">Logout</a>		  	
+			<a class="mybutton button-primary" style="float:right; margin-top:5px;" href="https://myapppresser.com/web-tco/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fmyapppresser.com%2Fweb-tco&amp;_wpnonce=86422994cc">Logout</a>		  	
 			</section><!-- .site-branding -->
 
 	</header><!-- #masthead -->
@@ -173,7 +173,7 @@ var rcp_site_creation_vars = {"allowed":"","show_desc":"","ajaxurl":"https:\/\/m
 	<div class="modal-backdrop"></div>
 	<script type='text/javascript' id='myappp-scripts-js-extra'>
 /* <![CDATA[ */
-var myappp = {"ajaxurl":"https:\/\/myapppresser.com\/web-tco\/wp-admin\/admin-ajax.php","siteurl":"https:\/\/myapppresser.com\/web-tco","appid":"11","app_title":"Login","site_slug":"web-tco","rest_nonce":"6d8533b489"};
+var myappp = {"ajaxurl":"https:\/\/myapppresser.com\/web-tco\/wp-admin\/admin-ajax.php","siteurl":"https:\/\/myapppresser.com\/web-tco","appid":"11","app_title":"Login","site_slug":"web-tco","rest_nonce":"3c9a73ef92"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://myapppresser.com/web-tco/wp-content/themes/m1-myappp/js/front-end.js?ver=1.5.8' id='myappp-scripts-js'></script>
