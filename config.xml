@@ -7,9 +7,9 @@
     id="com.shilohbaptist.app"
     version="1.6.0">
    
-   <name>Shiloh Baptist</name>
+   <name>Shiloh Baptist Church</name>
    <description><![CDATA[Shiloh Baptist Church]]></description>
-   <author href="https://thechurchonline.com" email="cconcepcion@thechurchonline.com">Conrado Concepcion</author>
+   <author href="https://thechurchonline.com" email="tordonio@thechurchonline.com">Timothy Ordonio</author>
 
     <platform name="ios" />
     <platform name="android" />
@@ -163,11 +163,11 @@
         <splash height="1024" src="res/screen/ios/Default-Portrait~ipad.png" width="768" />
         <splash height="960" src="res/screen/ios/Default@2x~iphone.png" width="640" />
         <splash height="480" src="res/screen/ios/Default~iphone.png" width="320" />
-        <splash height="2732" src="res/screen/ios/Default@2x~universal~anyany.png" width="2732" />
+        <splash height="2732" src="res/screen/ios/splash.jpg" width="2732" />
     </platform>
 
     <icon src="res/icon/ios/icon.png" />
-    <splash src="res/screen/ios/Default@2x~universal~anyany.png" />
+    <splash src="res/screen/ios/splash.jpg" />
     <content src="index.html" />
     <access origin="*" subdomains="true" />
     <allow-navigation href="*" /><!-- render iframe content, iframe, ajax calls (API and logins) -->
