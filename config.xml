@@ -37,8 +37,8 @@
     <plugin name="cordova-plugin-wkwebview-engine"  source="npm" /> 
     <plugin name="cordova-plugin-wkwebview-file-xhr"  source="npm" /> 
     <plugin name="cordova-plugin-media" spec="3.0.1" />
-    <plugin name="cordova-plugin-inappbrowser" source="npm" spec="2.0.1" />
-    <!--<plugin name="cordova-plugin-inappbrowser" spec="https://github.com/kleeb/cordova-plugin-inappbrowser.git" source="git"/>-->
+    <!--<plugin name="cordova-plugin-inappbrowser" source="npm" spec="2.0.1" />-->
+    <plugin name="cordova-plugin-inappbrowser" spec="https://github.com/kleeb/cordova-plugin-inappbrowser.git" source="git"/>
     <!--MEDIA-DONOTREMOVE-->
     <!--CAMERA-DONOTREMOVE-->
     <!--GEO-DONOTREMOVE-->
@@ -164,11 +164,11 @@
         <splash height="1024" src="res/screen/ios/Default-Portrait~ipad.png" width="768" />
         <splash height="960" src="res/screen/ios/Default@2x~iphone.png" width="640" />
         <splash height="480" src="res/screen/ios/Default~iphone.png" width="320" />
-        <splash height="2732" src="res/screen/ios/splash.png" width="2732" />
+        <splash height="2732" src="res/screen/ios/Default@2x~universal~anyany.png" width="2732" />
     </platform>
 
     <icon src="res/icon/ios/icon.png" />
-    <splash src="res/screen/ios/splash.png" />
+    <splash src="res/screen/ios/Default@2x~universal~anyany.png" />
     <content src="index.html" />
     <access origin="*" subdomains="true" />
     <allow-navigation href="*" /><!-- render iframe content, iframe, ajax calls (API and logins) -->
